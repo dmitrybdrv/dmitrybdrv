@@ -1,4 +1,4 @@
-![Header](https://github.com/dmitrybdrv/dmitrybdrv/blob/main/assets/Banner.png)
+![Banner](https://github.com/dmitrybdrv/dmitrybdrv/blob/main/assets/Banner.png)
 
 About Me
 
