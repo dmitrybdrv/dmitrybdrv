@@ -1,4 +1,4 @@
-![Header](https://github.com/dmitrybdrv/dmitrybdrv/blob/main/assets/react-redux.png)
+![Header](https://github.com/dmitrybdrv/dmitrybdrv/blob/main/assets/rr.png)
 
 ## I am beginner Frontend Developer
 
