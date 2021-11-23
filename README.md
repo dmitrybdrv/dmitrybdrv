@@ -2,7 +2,7 @@
 
 ## I am beginner Frontend Developer
 
-### languages & tools
+### My Skillsets
 [![HTML](https://img.shields.io/badge/-HTML-13262b?style=for-the-badge&logo=html5&logoColor=f03c3f)](https://html.spec.whatwg.org/multipage/)
 [![CSS](https://img.shields.io/badge/-CSS-13262b?style=for-the-badge&logo=CSSWizardry&logoColor=fff200)](https://www.w3schools.com/css/)
 [![javaScript](https://img.shields.io/badge/-javaScript-13262b?style=for-the-badge&logo=javaScript&logoColor=ed30d0)](https://learn.javascript.ru/)
