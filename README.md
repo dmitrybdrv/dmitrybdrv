@@ -9,6 +9,9 @@
 [![ECMAScript](https://img.shields.io/badge/-ES6-13262b?style=for-the-badge&logo=Etsy&logoColor=f7c922)](https://www.w3schools.com/js/js_es6.asp)
 [![Git](https://img.shields.io/badge/-Git-13262b?style=for-the-badge&logo=Git)](https://git-scm.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-13262b?style=for-the-badge&logo=TypeScript&logoColor=9a002a)](https://www.typescriptlang.org/)
+[![Storybook](https://img.shields.io/badge/-Storybook-13262b?style=for-the-badge&logo=Storybook&logoColor=26803e)](https://storybook.js.org/)
+[![TDD](https://img.shields.io/badge/-TDD-13262b?style=for-the-badge&logo=react&logoColor=ba32c9)](https://jestjs.io/ru/)
+[![React](https://img.shields.io/badge/-React-13262b?style=for-the-badge&logo=react&logoColor=2e3be8)](https://ru.reactjs.org/docs/getting-started.html)
 
 
 ### Follow Me
