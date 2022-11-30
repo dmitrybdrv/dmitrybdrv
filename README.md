@@ -1,4 +1,4 @@
-![Header](https://github.com/dmitrybdrv/dmitrybdrv/blob/main/assets/e.png)
+![Header](https://miro.medium.com/max/1200/1*smuMxL6qzvl-OUxTfuxHUg.jpeg)
 
 ## I am beginner Frontend Developer
 
