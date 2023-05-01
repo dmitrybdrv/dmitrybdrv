@@ -1,6 +1,6 @@
 ![Header](https://miro.medium.com/max/1200/1*smuMxL6qzvl-OUxTfuxHUg.jpeg)
 
-## I am beginner Frontend Developer
+## HI there, i am beginner Frontend Developer
 
 ### My Skillsets
 [![HTML](https://img.shields.io/badge/-HTML-13262b?style=for-the-badge&logo=html5&logoColor=f03c3f)](https://www.w3schools.com/html/default.asp)
